@@ -21,11 +21,11 @@ import java.util.Scanner;
 
 public class Ques_1 {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int input1 = in.nextInt();
-        int input2 = in.nextInt();
-        int input3 = in.nextInt();
-        int input4 = in.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int input1 = sc.nextInt();
+        int input2 = sc.nextInt();
+        int input3 = sc.nextInt();
+        int input4 = sc.nextInt();
         System.out.println(Question(input1,input2,input3,input4));
     }
     public static int Question(int input1,int input2,int input3,int input4)
