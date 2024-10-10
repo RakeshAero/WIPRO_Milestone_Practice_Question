@@ -1,6 +1,6 @@
 package MileStone2;
 /*
-
+1.
 You are at Level-1 of a Maths Game.
 You are provided with 4 numbers: input1, input2, input3 and input4 and are expected to find a secret PIN.
 The three numbers input1, input2 and input3 are four digit numbers within the range >=1000 and <=9999. i.e.
